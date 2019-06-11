@@ -5,3 +5,5 @@ add
 mv
 diff
 checkout
+log
+config
