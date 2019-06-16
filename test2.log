@@ -8,3 +8,4 @@ checkout
 log
 config
 cat-file
+pull
